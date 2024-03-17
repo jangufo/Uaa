@@ -1,0 +1,5 @@
+{
+  "json_file_path": "./JsonDownload",
+  "db_file_path": "./UaaDb.db",
+  "is_remove_jsonfile": false
+}
